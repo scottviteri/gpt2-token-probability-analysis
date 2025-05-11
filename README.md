@@ -93,10 +93,11 @@ MIT
 If you find this analysis useful, please cite:
 ```
 @misc{gpt2probanalysis,
-  author = {Scott Viteri},
+  author = {Viteri, Scott and Anthropic Claude},
   title = {GPT-2 Token Probability Analysis},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/scottviteri/gpt2-token-probabilities-analysis}
+  url = {https://github.com/scottviteri/gpt2-token-probabilities-analysis},
+  note = {GitHub repository}
 }
 ```
